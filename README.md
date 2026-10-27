@@ -100,7 +100,7 @@ python -m uvicorn main:app --host 127.0.0.1 --port 8000
 ```
 - API runs at: `http://127.0.0.1:8000`  
 - Interactive Swagger docs: `http://127.0.0.1:8000/docs`
-
+.
 ### Step 2: Start the Frontend Application
 ```bash
 # In a new terminal, navigate to frontend
