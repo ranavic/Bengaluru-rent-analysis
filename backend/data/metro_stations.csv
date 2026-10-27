@@ -1,0 +1,53 @@
+station_name,line,latitude,longitude,status
+Whitefield (Kadugodi),Purple,12.9961,77.7612,Operational
+Hopefarm Channasandra,Purple,12.9892,77.7523,Operational
+Kadugodi Tree Park,Purple,12.9863,77.741,Operational
+Pattandur Agrahara (ITPL),Purple,12.9868,77.7301,Operational
+Kundalahalli,Purple,12.9734,77.7188,Operational
+Singayyanapalya,Purple,12.995,77.6975,Operational
+KR Puram (Krishnarajapuram),Purple,12.9982,77.6789,Operational
+Benniganahalli,Purple,12.9928,77.662,Operational
+Baiyappanahalli,Purple,12.9911,77.6521,Operational
+Swami Vivekananda Road,Purple,12.9859,77.6449,Operational
+Indiranagar,Purple,12.9783,77.6408,Operational
+Halasuru,Purple,12.9757,77.6267,Operational
+Trinity,Purple,12.973,77.6171,Operational
+MG Road,Purple,12.9756,77.6067,Operational
+Cubbon Park,Purple,12.981,77.5996,Operational
+Dr. BR Ambedkar Vidhana Soudha,Purple,12.9797,77.5927,Operational
+Sir M. Visveshwaraya Central College,Purple,12.9768,77.5855,Operational
+Nadaprabhu Kempegowda (Majestic Interchange),Purple/Green,12.9757,77.5728,Operational
+KSR Bengaluru City Railway,Purple,12.9772,77.5683,Operational
+Magadi Road,Purple,12.9756,77.5552,Operational
+Hosahalli,Purple,12.9744,77.5388,Operational
+Vijayanagar,Purple,12.9698,77.5312,Operational
+Attiguppe,Purple,12.9622,77.5241,Operational
+Deepanjali Nagar,Purple,12.9525,77.5186,Operational
+Mysore Road,Purple,12.9463,77.5132,Operational
+Kengeri,Purple,12.9098,77.4782,Operational
+Nagasandra,Green,13.048,77.4996,Operational
+Dasarahalli,Green,13.0437,77.513,Operational
+Jalahalli,Green,13.0387,77.5204,Operational
+Peenya Industry,Green,13.0329,77.5255,Operational
+Yeshwanthpur,Green,13.0233,77.5501,Operational
+Sandal Soap Factory,Green,13.0147,77.5539,Operational
+Mahalakshmi,Green,13.0076,77.5549,Operational
+Rajajinagar,Green,12.9988,77.5558,Operational
+Kuvempu Road,Green,12.9899,77.5583,Operational
+Mantri Square Sampige Road,Green,12.9912,77.571,Operational
+Chickpete,Green,12.9658,77.5746,Operational
+Krishna Rajendra Market,Green,12.961,77.5752,Operational
+National College,Green,12.9504,77.5735,Operational
+Lalbagh,Green,12.9463,77.58,Operational
+South End Circle,Green,12.9377,77.5804,Operational
+Jayanagar 4th Block,Green,12.9308,77.5801,Operational
+Rashtriya Vidyalaya Road (RV Road),Green,12.9216,77.5801,Operational
+Banashankari,Green,12.9155,77.5736,Operational
+Jaya Prakash Nagar (JP Nagar),Green,12.9073,77.5735,Operational
+Yelachenahalli,Green,12.8959,77.5707,Operational
+Silk Institute,Green,12.8624,77.5372,Operational
+Central Silk Board,Yellow,12.9174,77.6231,Operational/Testing
+BTM Layout Station,Yellow,12.9165,77.6085,Operational/Testing
+HSR Layout Station,Yellow,12.9126,77.6385,Operational/Testing
+Electronic City 1,Yellow,12.8455,77.6631,Operational/Testing
+Electronic City 2,Yellow,12.839,77.6745,Operational/Testing
